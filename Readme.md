@@ -98,3 +98,6 @@ git clone https://github.com/danielguerra69/ubuntu-xrdp.git
 cd ubuntu-xrdp/
 docker-compose up -d
 ```
+
+
+https://sevo44.ru/xrdp-terminalnyj-server-linux/#__XFCE
